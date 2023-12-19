@@ -47,3 +47,14 @@ terminal with a window height of 30 and a window width of 120. There are hidden
 easter eggs within the application, this includes an easter egg in the first
 loading screen of the application, showing the creator's name initials in the loading bar.
 You may find other easter eggs within the game, so have fun and enjoy playing!!
+
+### Easter Eggs
+ There is a one out of thirty chances of seeing the original welcome screen.
+ Both the hidden welcome screen and the welcome screen has the Creator's name initials.
+ In the death animation of the Hangman game, there is a one out of thirty chances of
+ triggering the hidden text and a different ascii art.
+ When choosing which soundtrack to play at the change background music menu of game settings,
+ you may enter the keyword "j1" or "j2" to play a hidden soundtrack. Both keyword each has a 
+ dedicated hidden soundtrack. Enjoy the music...
+ In the Hangman game, the hidden word is chosen at random, but there is a one out of 30 chances
+ of getting the Creator's name as a hidden word.
