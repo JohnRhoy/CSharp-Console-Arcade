@@ -31,6 +31,13 @@ This project utilizes code and resources from various sources, and I would like 
   repository. A lot of the code within this link was heavily reference and was adopted into my 
   application. With that, i would like to extend my acknowledgements to this open-source project     
   that have inspired the creation of this Console Arcade Application.
+  
+### Background Music
+
+The background music used in this project is sourced from [Pixabay].
+
+- [Pixabay](https://pixabay.com/): Pixabay is a website that offers a large 
+  collection of high-quality and royalty-free images, illustrations, vector graphics, and videos. 
 
 ### Special Message 
 Dear Teacher, Ma'am Amelie Tejada
