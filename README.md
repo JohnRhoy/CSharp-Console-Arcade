@@ -23,6 +23,15 @@ Welcome to the C# Console Arcade, a collection of classic arcade games in a cons
    ```bash
    git clone https://github.com/your-username/console-arcade.git
 
+### Acknowledgements
+This project utilizes code and resources from various sources, and I would like to express my gratitude to the following:
+
+- [ZacharyPatten]([link-to-source-1](https://github.com/dotnet/dotnet-console-games))
+  : The idea of combining games into a single application came to me after i found this github 
+  repository. A lot of the code within this link was heavily reference and was adopted into my 
+  application. With that, i would like to extend my acknowledgements to this open-source project     
+  that have inspired the creation of this Console Arcade Application.
+
 ### Special Message 
 Dear Teacher, Ma'am Amelie Tejada
   This appication was created through imaginative and creative thinking
