@@ -40,7 +40,6 @@ The background music used in this project is sourced from [Pixabay].
   collection of high-quality and royalty-free images, illustrations, vector graphics, and videos. 
 
 ### Special Message 
-Dear Teacher, Ma'am Amelie Tejada
   This appication was created through imaginative and creative thinking
   Please do keep in mind that not all of the Games in this application
   are entirely unique, some are coded manually, and some are referenced
